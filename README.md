@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning *Flutter App Development**
 
-- 👨‍💻 All of my projects are available at [https://mtalhaofc.netlify.app](https://mtalhaofc.netlify.app)
+- 👨‍💻 All of my projects are available at https://hunzlashafiqdev.netlify.app/
 
 - 💬 Ask me about **Android,Flutter,REST APIs**
 
