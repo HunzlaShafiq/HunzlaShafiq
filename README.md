@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at https://hunzlashafiqdev.netlify.app/
 
-- 💬 Ask me about **Android,Flutter,REST APIs**
+- 💬 Ask me about **Android,Flutter,Provider,BLOC,Firebase,REST APIs**
 
 - 📫 How to reach me **hunzlashafiq132@gmail.com**
 
