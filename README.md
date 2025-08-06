@@ -57,8 +57,8 @@
 ## 🏆 Featured Projects
 
 1. **[ImaanLinkApp](https://github.com/HunzlaShafiq/ImaanLinkApp)** - Faith-based community platform with Firebase backend
-2. **[Flutter E-Commerce Template](https://github.com/HunzlaShafiq/example-repo)** - BLoC pattern implementation
-3. **[Firebase Auth Demo](https://github.com/HunzlaShafiq/example-repo)** - Complete authentication flow
+2. **[Food On Touch](https://github.com/HunzlaShafiq/FoodOnTouch)** - Online Food delivery App with Admin and develivery Boy App with Flutter , Firebase and Provider pattern implementation
+3. **[EduNest](https://github.com/HunzlaShafiq/example-repo)** - Complete authentication flow
 
 ## 📝 Latest Blog Posts
 - [Optimizing Flutter App Performance](https://example.com)
