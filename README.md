@@ -7,7 +7,7 @@
 
 ## 👋 Hello World! I'm Muhammad Hunzla Shafiq
 
-<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/19db51af5f90f1b152bc0b9078f5fe97053955be5074f03f17019c70345bdcdb/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676if">
+<img align="right" alt="Flutter Coding" width="400" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDl0dXJ2dGx0b2R1b2h0Z3V2eWJqY3RjZ3J4dWx4b2Z6c3V1eGJ5ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2IudUHdI075HL02Pkk/giphy.gif">
 
 ### 🚀 Current Focus
 - 🔭 Building **[ImaanLinkApp](https://github.com/HunzlaShafiq/ImaanLinkApp)** - A faith-based community platform
@@ -19,7 +19,7 @@
 - **Firebase** (Auth, Firestore, Cloud Functions)
 - **State Management** (BLoC, Provider, Riverpod)
 - **Clean Architecture** & **SOLID Principles**
-- **REST API Integration** (Dio, Retrofit)
+- **REST API Integration** (Dio, Http)
 
 ## 📬 Let's Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-%230A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/Hunzlashafiq)
@@ -41,6 +41,8 @@
 
 ### 🛠️ Tools & Platforms
 ![Git](https://img.shields.io/badge/Git-%23F05032?style=flat&logo=git&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=flat&logo=android-studio&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-%23007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-%23F24E1E?style=flat&logo=figma&logoColor=white)
 
@@ -58,12 +60,11 @@
 
 1. **[ImaanLinkApp](https://github.com/HunzlaShafiq/ImaanLinkApp)** - Faith-based community platform with Firebase backend
 2. **[Food On Touch](https://github.com/HunzlaShafiq/FoodOnTouch)** - Online Food delivery App with Admin and develivery Boy App with Flutter , Firebase and Provider pattern implementation
-3. **[EduNest](https://github.com/HunzlaShafiq/example-repo)** - Complete authentication flow
+3. **[EduNest](https://github.com/HunzlaShafiq/classroom)** - ClassRoom app to manage classwork with provider and firebase
 
 ## 📝 Latest Blog Posts
-- [Optimizing Flutter App Performance](https://example.com)
-- [BLoC Pattern Deep Dive](https://example.com)
-- [Firebase Security Rules Best Practices](https://example.com)
+- Soon
+
 
 ## 💡 Fun Fact
 When I'm not coding, you'll find me contributing to open-source or exploring new coffee shops ☕
