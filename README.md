@@ -1,4 +1,3 @@
-
 # 💻 Flutter Developer | Firebase Expert | Mobile Architect
 
 <div align="center">
@@ -13,6 +12,7 @@
 - 🔭 Building **[ImaanLinkApp](https://github.com/HunzlaShafiq/ImaanLinkApp)** - A faith-based community platform
 - 🌱 Mastering **Flutter Performance Optimization**
 - 💡 Exploring **Flutter Web & Desktop Integration**
+- 👯 Looking to collaborate on **open-source Flutter projects**
 
 ### 🛠️ Core Expertise
 - **Cross-Platform Development** with Flutter
@@ -25,26 +25,27 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-%230A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/Hunzlashafiq)
 [![Email](https://img.shields.io/badge/Email-Contact-%23D14836?style=for-the-badge&logo=gmail)](mailto:hunzlashafiq132@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-%23FF5722?style=for-the-badge&logo=firebase)](https://hunzlashafiqdev.netlify.app/)
+[![GitHub Followers](https://img.shields.io/github/followers/HunzlaShafiq?label=Follow&style=social)](https://github.com/HunzlaShafiq)
 
 ## 🧰 Technical Arsenal
 
 ### 📱 Mobile Development
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B?style=flat&logo=flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-%230175C2?style=flat&logo=dart&logoColor=white)
-![Android](https://img.shields.io/badge/Android-%233DDC84?style=flat&logo=android&logoColor=black)
-![Kotlin](https://img.shields.io/badge/Kotlin-%237F52FF?style=flat&logo=kotlin&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-%2302569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-%230175C2?style=for-the-badge&logo=dart&logoColor=white)
+![Android](https://img.shields.io/badge/Android-%233DDC84?style=for-the-badge&logo=android&logoColor=black)
+![Kotlin](https://img.shields.io/badge/Kotlin-%237F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
 
 ### 🔥 Backend & Cloud
-![Firebase](https://img.shields.io/badge/Firebase-%23FFCA28?style=flat&logo=firebase&logoColor=black)
-![Google Cloud](https://img.shields.io/badge/GCP-%234285F4?style=flat&logo=google-cloud&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-%23339933?style=flat&logo=node.js&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-%23FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Google Cloud](https://img.shields.io/badge/GCP-%234285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-%23339933?style=for-the-badge&logo=node.js&logoColor=white)
 
 ### 🛠️ Tools & Platforms
-![Git](https://img.shields.io/badge/Git-%23F05032?style=flat&logo=git&logoColor=white)
-![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=flat&logo=android-studio&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-%23007ACC?style=flat&logo=visual-studio-code&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-%23F24E1E?style=flat&logo=figma&logoColor=white)
+![Git](https://img.shields.io/badge/Git-%23F05032?style=for-the-badge&logo=git&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-%23007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-%23F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 ## 📊 GitHub Analytics
 
@@ -58,17 +59,25 @@
 
 ## 🏆 Featured Projects
 
-1. **[ImaanLinkApp](https://github.com/HunzlaShafiq/ImaanLinkApp)** - Faith-based community platform with Firebase backend
-2. **[Food On Touch](https://github.com/HunzlaShafiq/FoodOnTouch)** - Online Food delivery App with Admin and develivery Boy App with Flutter , Firebase and Provider pattern implementation
-3. **[EduNest](https://github.com/HunzlaShafiq/classroom)** - ClassRoom app to manage classwork with provider and firebase
+1. **[ImaanLinkApp](https://github.com/HunzlaShafiq/ImaanLinkApp)**  
+   Faith-based community platform with Firebase backend | Flutter, BLoC, Firestore
+
+2. **[Food On Touch](https://github.com/HunzlaShafiq/FoodOnTouch)**  
+   Complete food delivery ecosystem (User/Admin/Delivery apps) | Flutter, Firebase, Provider
+
+3. **[EduNest](https://github.com/HunzlaShafiq/classroom)**  
+   Classroom management system | Flutter, Firebase, Provider
 
 ## 📝 Latest Blog Posts
-- Soon
-
+- [Coming Soon] Optimizing Flutter App Performance
+- [Coming Soon] Firebase Security Rules Deep Dive
 
 ## 💡 Fun Fact
 When I'm not coding, you'll find me contributing to open-source or exploring new coffee shops ☕
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=HunzlaShafiq&label=Profile%20views&color=0e75b6&style=flat" alt="Hunzlashafiq" />
+  <a href="https://github.com/HunzlaShafiq?tab=followers">
+    <img alt="GitHub followers" src="https://img.shields.io/github/followers/HunzlaShafiq?color=green&logo=github">
+  </a>
 </div>
